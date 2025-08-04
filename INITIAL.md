@@ -1,6 +1,6 @@
 ## FEATURE:
 
-[Insert your feature here]
+Implement a flutter-based application that help student to master 7000 most commonly used english vocabulary. Provide a simple interface for them to identify whether they are familiar with a word or not. On a daily basis, generate 50 word for test. Student can easily click "yes" or "no" to indicate whether they familiar with the word. 
 
 ## EXAMPLES:
 
@@ -12,4 +12,4 @@
 
 ## OTHER CONSIDERATIONS:
 
-[Any other considerations or specific requirements - great place to include gotchas that you see AI coding assistants miss with your projects a lot]
+provide dark/light theme switch
